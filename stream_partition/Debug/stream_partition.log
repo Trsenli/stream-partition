@@ -1,0 +1,17 @@
+﻿  Partition.cpp
+F:\02-internship\code\stream_partition\stream_partition\Partition.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\02-internship\code\stream_partition\stream_partition\Partition.h(34): warning C4018: “<”: 有符号/无符号不匹配
+F:\02-internship\code\stream_partition\stream_partition\Partition.cpp(51): warning C4018: “<”: 有符号/无符号不匹配
+F:\02-internship\code\stream_partition\stream_partition\Partition.cpp(100): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+F:\02-internship\code\stream_partition\stream_partition\Partition.cpp(138): warning C4018: “<”: 有符号/无符号不匹配
+  Partitioner.cpp
+F:\02-internship\code\stream_partition\stream_partition\Partitioner.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\02-internship\code\stream_partition\stream_partition\Partition.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\02-internship\code\stream_partition\stream_partition\Partition.h(34): warning C4018: “<”: 有符号/无符号不匹配
+F:\02-internship\code\stream_partition\stream_partition\Partitioner.h(26): warning C4018: “<”: 有符号/无符号不匹配
+F:\02-internship\code\stream_partition\stream_partition\Partitioner.cpp(49): error C2065: “secondVertextNeighbors”: 未声明的标识符
+F:\02-internship\code\stream_partition\stream_partition\Partitioner.cpp(57): error C2065: “weightedGreedy”: 未声明的标识符
+F:\02-internship\code\stream_partition\stream_partition\Partitioner.cpp(59): error C2065: “secondVertextNeighbors”: 未声明的标识符
+F:\02-internship\code\stream_partition\stream_partition\Partitioner.cpp(60): error C2065: “secondVertextNeighbors”: 未声明的标识符
+F:\02-internship\code\stream_partition\stream_partition\Partitioner.cpp(67): error C2065: “weightedGreedy”: 未声明的标识符
+  正在生成代码...
